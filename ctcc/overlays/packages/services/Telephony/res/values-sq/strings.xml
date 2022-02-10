@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"Thirrjet VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"Për të shmangur problemet e cilësisë, verifiko me operatorin e rrjetit celular nëse VoLTE mbështetet përpara se të aktivizosh këtë veçori"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Për të aktivizuar thirrje me video duhet të aktivizosh modalitetin Thirrje VoLTE HD te cilësimet e rrjetit."</string>
+</resources>

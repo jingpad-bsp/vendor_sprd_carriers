@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">Κλήσεις VOLTE HD</string>
+<string name="enhanced_4g_lte_mode_summary">Για να αποφύγετε προβλήματα ποιότητας κλήσεων, ελέγξτε με τον πάροχο δικτύου κινητής τηλεφωνίας εάν είναι ενεργοποιημένο το VoLTE προτού ενεργοποιήσετε αυτήν τη λειτουργία</string>
+<string name="enable_video_calling_dialog_auto_msg">"Για να ενεργοποιήσετε την κλήση βίντεο, χρειάζεται να ενεργοποιήσετε τη λειτουργία κλήσεων VoLTE HD στις ρυθμίσεις δικτύου."</string>
+</resources>

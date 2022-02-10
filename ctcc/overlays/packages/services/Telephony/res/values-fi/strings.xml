@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD -puhelut"</string>
+<string name="enhanced_4g_lte_mode_summary">"Voit välttää puhelujen äänenlaatuongelmat tarkistamalla ennen tämän toiminnon käyttöönottoa operaattoriltasi, onko VoLTE käytössä"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Videopuheluiden soittamista varten VoLTE HD -puhelutila täytyy ottaa käyttöön verkkoasetuksissa."</string>
+</resources>

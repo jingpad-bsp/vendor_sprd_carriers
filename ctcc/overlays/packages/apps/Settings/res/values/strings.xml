@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="enabled_networks_choices">
+        <item>4G/3G/2G auto</item>
+        <item>3G/2G auto</item>
+    </string-array>
+
+    <string-array name="enabled_networks_values" translatable="false">
+        <item>"9"</item>
+        <item>"0"</item>
+    </string-array>
+    <string name="enhanced_4g_lte_mode_title">VoLTE HD calls</string>
+    <string name="enhanced_4g_lte_mode_title_advanced_calling">VoLTE HD calls</string>
+    <string name="enhanced_4g_lte_mode_title_4g_calling">VoLTE HD calls</string>
+    <string name="enhanced_4g_lte_mode_summary">To avoid call quality issues, check with your mobile network operator whether VoLTE is activated before enabling this feature</string>
+    <string name="enhanced_4g_lte_mode_summary_4g_calling">To avoid call quality issues, check with your mobile network operator whether VoLTE is activated before enabling this feature</string>
+</resources>

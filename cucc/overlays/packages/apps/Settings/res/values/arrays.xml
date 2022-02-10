@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: FL0108090026 Customized manually network scan list @{-->
+    <string-array name="mark_plmns_as_grey" translatable="false">
+        <item>46000</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46004</item>
+        <item>46005</item>
+        <item>46007</item>
+        <item>46008</item>
+        <item>46011</item>
+        <item>46020</item>
+        <item>45412</item>
+        <item>45502</item>
+        <item>45507</item>
+    </string-array>
+    <!-- @} -->
+</resources>

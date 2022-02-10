@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Unisoc FL0108020025: Show Rejected calls notifier feature. -->
+  <bool name="config_is_show_reject_call_notifier" carrier="cmcc">true</bool>
+  <!-- UNISOC support show emergency numbers in call log -->
+  <bool name="allow_emergency_numbers_in_call_log">true</bool>
+  <!--UNISCOC:modify for bug1152781-->
+  <bool name="config_is_close_auto_speaker" carrier="cmcc">true</bool>
+  <!--UNISOC:modify for bug1147838-->
+  <bool name="config_is_show_main_vice_card_feature" carrier="cmcc">true</bool>
+</resources>

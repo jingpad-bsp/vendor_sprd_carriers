@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"የVOLTE HD ጥሪዎች"</string>
+<string name="enhanced_4g_lte_mode_summary">"የጥሪ ጥራት ችግሮችን ለመከላከል ይህን ባህሪ ከማንቃትዎ በፊት VoLTE ገቢር ተደርጎ እንደሆነ የሞባይል አውታረ መረብ አገልግሎት አቅራቢዎን ይጠይቁ"</string>
+<string name="enable_video_calling_dialog_auto_msg">"የቪዲዮ ጥሪን ለማብራት በአውታረ መረብ ቅንብሮች ውስጥ የVoLTE HD ጥሪዎች ሁነታ ማንቃት አለብዎት።"</string>
+</resources>

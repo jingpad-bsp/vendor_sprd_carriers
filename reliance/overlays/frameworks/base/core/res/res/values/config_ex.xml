@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="config_show_low_battery_dialog">true</bool>
+    <!--UNISOC bug1076613:Enables or disables gesture to launch sos for reliance version -->
+    <bool name="config_gesture_sos_launch">true</bool>
+</resources>

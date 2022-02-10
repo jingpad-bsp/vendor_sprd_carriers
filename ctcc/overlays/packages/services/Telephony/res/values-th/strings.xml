@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"สาย VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"เพื่อหลีกเลี่ยงปัญหาด้านคุณภาพของการโทร โปรดตรวจสอบกับผู้ให้บริการเครือข่ายมือถือว่ารองรับ VoLTE หรือไม่ก่อนเปิดใช้คุณลักษณะนี้"</string>
+<string name="enable_video_calling_dialog_auto_msg">"เมื่อต้องการเปิดการโทรวิดีโอ คุณต้องเปิดใช้โหมดการโทร VoLTE HD ในการตั้งค่าเครือข่าย"</string>
+</resources>

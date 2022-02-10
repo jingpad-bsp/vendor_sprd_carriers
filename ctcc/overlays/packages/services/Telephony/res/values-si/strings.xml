@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD ඇමතුම්"</string>
+<string name="enhanced_4g_lte_mode_summary">"ඇමතුම් ප්‍රමිතියේ ගැටළු වළක්වා ගැනීමට මෙම පහසුකම සක්‍රිය කිරීමට පෙර ඔබේ ජංගම දුරකථන ජාල මෙහෙයුම්කරු සමග VoLTE සක්‍රිය කර ඇද්දැයි බලන්න"</string>
+<string name="enable_video_calling_dialog_auto_msg">"වීඩියෝ ඇමතුම ක්‍රියාත්මක කිරීමට, ඔබ විසින් ජාල සැකසුම් තුළ VoLTE HD ඇමතුම් සක්‍රිය කළ යුතු වේ."</string>
+</resources>

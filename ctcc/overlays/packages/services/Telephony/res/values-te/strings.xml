@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD కాల్స్"</string>
+<string name="enhanced_4g_lte_mode_summary">"కాల్ నాణ్యత సమస్యలను నివారించడానికి, ఈ లక్షణాన్ని ప్రారంభించే ముందు VoLTE సక్రియం చేయబడినా మీ మొబైల్ నెట్‌వర్క్ ఆపరేటర్‌తో తనిఖీ చేయండి"</string>
+<string name="enable_video_calling_dialog_auto_msg">"వీడియో కాలింగ్ ఆన్ చేయడానికి, మీరు నెట్‌వర్క్ సెట్టింగులలో VoLTE HD కాల్స్ మోడ్‌ను ప్రారంభించాలి"</string>
+</resources>

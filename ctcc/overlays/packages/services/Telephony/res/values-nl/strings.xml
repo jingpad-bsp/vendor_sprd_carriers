@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VoLTE HD-oproepen"</string>
+<string name="enhanced_4g_lte_mode_summary">"Om problemen met de gesprekskwaliteit te voorkomen, moet u controleren of de operator van uw mobiel netwerk VoLTE heeft geactiveerd, voordat u deze functie inschakelt."</string>
+<string name="enable_video_calling_dialog_auto_msg">"Om videogesprekken in te schakelen, moet u de modus ‘VoLTE HD-oproepen’ activeren in netwerkinstellingen."</string>
+</resources>

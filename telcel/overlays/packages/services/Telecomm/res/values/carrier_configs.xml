@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Unisoc FL1000060380: Low power notificiation. -->
+  <bool name="config_show_low_battery_dialog" carrier="telcel">true</bool>
+  <!-- Unisoc FL1000060331: Wake up screen when call disconnected. -->
+  <bool name="config_is_support_wakeup_screen" carrier="telcel">true</bool>
+  <!-- Unisoc FL1000060554: Volte Local Tone Feature. -->
+  <bool name="config_is_support_local_tone" carrier="telcel">true</bool>
+  <bool name="config_is_support_dtmf_tone" carrier="telcel">true</bool>
+  <bool name="config_is_show_ims_icon_in_calllog">true</bool>
+  <bool name="allow_emergency_numbers_in_call_log">true</bool>
+</resources>

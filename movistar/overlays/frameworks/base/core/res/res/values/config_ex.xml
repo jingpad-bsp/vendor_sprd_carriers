@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- support preset wifi AccessPoint config -->
+    <bool name="config_preset_wifi_eap_network_supported">true</bool>
+    <!-- preload wifi eap network config, format:ssid,withSimCard,eapMethod,eapMethodWithoutSimcard,imsi,simSlot,maxConnectTime,autoJoinMenu,modify,forget -->
+    <string-array translatable="false" name="config_wifi_preload_eap_network_config">
+        <item>MOVISTAR WIFI,true,4,4,33403-21407,0,0,false,false,false</item>
+    </string-array>
+    <!-- support show disconnect menu for disconnect network, Movistar:true; -->
+    <bool name="config_wifi_disconnect_network_supported">true</bool>
+    <!-- support show disconnect menu for disable network, CMCC:true -->
+    <bool name="config_wifi_disable_network_supported">false</bool>
+
+    <!-- support anlysis callforward; Movistar:true -->
+    <bool name="config_add_mmi_cf_title_type">true</bool>
+</resources>

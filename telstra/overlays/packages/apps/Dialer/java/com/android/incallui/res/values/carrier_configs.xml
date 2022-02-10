@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support Hide recorder feature for telstra case. -->
+  <bool name="config_is_recorder_enabled_feature" carrier="telstra">false</bool>
+
+</resources>

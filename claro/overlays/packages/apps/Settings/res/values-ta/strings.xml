@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="enabled_networks_choices">
+<item>"4G (பரிந்துரைக்கப்பட்டது)"</item>
+<item>"3G/2G ஆட்டோ"</item>
+<item>"3G மட்டும்"</item>
+<item>"2G மட்டும் வகை"</item>
+</string-array>
+<string-array name="enabled_networks_except_lte_choices">
+<item>"3G/2G ஆட்டோ"</item>
+<item>"3G மட்டும்"</item>
+<item>"2G மட்டும் வகை"</item>
+</string-array>
+<string name="network_4g_auto">"4G (பரிந்துரைக்கப்பட்டது)"</string>
+<string name="network_3G_auto">"3G/2G ஆட்டோ"</string>
+<string name="network_3G_only">"3G மட்டும்"</string>
+<string name="network_2G_only">"2G மட்டும் வகை"</string>
+</resources>

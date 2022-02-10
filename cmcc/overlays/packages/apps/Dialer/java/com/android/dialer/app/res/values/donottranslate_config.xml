@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- UNISOC: add for bug1072690 -->
+  <bool name="config_allow_show_call_duration">false</bool>
+
+</resources>

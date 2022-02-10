@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support Voice Clear Code Feature -->
+  <bool name="config_is_support_voiceclearcode_feature" carrier="claro">true</bool>
+  <bool name="config_is_support_voiceclearcode_feature_claro" carrier="claro">true</bool>
+</resources>

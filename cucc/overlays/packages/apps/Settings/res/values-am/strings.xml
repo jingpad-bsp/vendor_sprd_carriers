@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="network_4g_auto">"LTE/WCDMA/GSM (በራሱ የሚሰራ)"</string>
+    <string name="network_3G_auto">"WCDMA/GSM"</string>
+    <string name="network_3G_only">WCDMA ብቻ</string>
+    <string name="network_2G_only">"GSM ብቻ"</string>
+    <string-array name="enabled_networks_choices">
+        <item>"LTE/WCDMA/GSM (በራሱ የሚሰራ)"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>WCDMA ብቻ</item>
+        <item>"GSM ብቻ"</item>
+    </string-array>
+</resources>

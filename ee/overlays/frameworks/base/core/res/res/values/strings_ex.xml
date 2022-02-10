@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: add for EE Wifi Call. Using operator res overlay @{ -->
+    <string name="customize_operator_name_string" translatable="false">"EE"</string>
+    <string name="customize_wfc_operator_name_string" translatable="false">"EE WiFiCall"</string>
+    <!-- @} -->
+</resources>

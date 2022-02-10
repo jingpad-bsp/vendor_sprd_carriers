@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="network_4g_auto">"LTE/WCDMA/GSM (ອັດ​ຕະ​ໂນ​ມັດ)"</string>
+    <string name="network_3G_auto">"WCDMA/GSM"</string>
+    <string name="network_3G_only">"WCDMA ເທົ່ານັ້ນ"</string>
+    <string name="network_2G_only">"GSM ເທົ່ານັ້ນ"</string>
+    <string-array name="enabled_networks_choices">
+        <item>"LTE/WCDMA/GSM (ອັດ​ຕະ​ໂນ​ມັດ)"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"WCDMA ເທົ່ານັ້ນ"</item>
+        <item>"GSM ເທົ່ານັ້ນ"</item>>
+    </string-array>
+</resources>

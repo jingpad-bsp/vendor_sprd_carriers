@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: Add for bug1072750, Androidq porting for USIM/SIM phonebook @{ -->
+    <bool name="config_supportorangeCapable">true</bool>
+    <!-- UNISOC: add for bug1023962,Flag specifying whether VT is available on device -->
+    <bool name="config_device_vt_available">false</bool>
+    <!-- UNISOC for orange trafficClass -->
+    <bool name="config_dataconnection_traffic_class">true</bool>
+</resources>

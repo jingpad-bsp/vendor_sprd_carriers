@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="accessibility_airplane_mode" msgid="834748999790763092" translateable="false">"Airplane mode"</string>
+    <string name="accessibility_quick_settings_airplane_off" msgid="7786329360056634412" translateable="false">"Airplane mode off."</string>
+    <string name="accessibility_quick_settings_airplane_on" msgid="6406141469157599296" translateable="false">"Airplane mode on."</string>
+    <string name="accessibility_quick_settings_airplane_changed_off" msgid="66846307818850664" translateable="false">"Airplane mode turned off."</string>
+    <string name="accessibility_quick_settings_airplane_changed_on" msgid="8983005603505087728" translateable="false">"Airplane mode turned on."</string>
+    <string name="status_bar_airplane" msgid="7057575501472249002" translateable="false">"Airplane mode"</string>
+    <string name="airplane_mode" translateable="false">Airplane mode</string>
+</resources>
+

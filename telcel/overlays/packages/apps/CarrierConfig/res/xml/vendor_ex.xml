@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<carrier_config_list>
+    <carrier_config>
+        <boolean name="editable_voicemail_number_setting_bool" value="false"/>
+        <boolean name="voicemail_notification_persistent_bool" value="true" />
+        <boolean name="support_show_wifi_calling_preference" value="false"/>
+        <string-array name="read_only_apn_types_string_array" num="1">
+            <item value="ims" />
+        </string-array>
+    </carrier_config>
+</carrier_config_list>

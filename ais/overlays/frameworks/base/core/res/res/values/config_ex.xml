@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- support preset wifi AccessPoint config -->
+    <bool name="config_preset_wifi_eap_network_supported">true</bool>
+    <!-- preload wifi eap network config, format:ssid,withSimCard,eapMethod,eapMethodWithoutSimcard,imsi,simSlot,maxConnectTime,autoJoinMenu,modify,forget -->
+    <string-array translatable="false" name="config_wifi_preload_eap_network_config">
+        <item>"  AIS SMART Login",true,4,0,52001-52003-52023,0,3,false,true,true</item>
+    </string-array>
+    <!-- support connect maxtime disable network, AIS:true -->
+    <bool name="config_wifi_connect_maxtime_disable_supported">true</bool>
+
+</resources>

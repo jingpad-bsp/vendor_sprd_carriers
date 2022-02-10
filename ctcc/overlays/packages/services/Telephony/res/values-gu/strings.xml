@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD કૉલ્સ"</string>
+<string name="enhanced_4g_lte_mode_summary">"કૉલની ગુણવત્તાની સમસ્યાને ટાળવા માટે આ ફીચરને ચાલુ કરતાં પહેલાં આપના મોબાઇલ નેટવર્ક ઓપરેટરની તપાસ કરો કે, VoLTE સક્રિય છે કે નહીં."</string>
+<string name="enable_video_calling_dialog_auto_msg">"વીડિયો કૉલિંગને ચાલુ કરવા માટે આપે નેટવર્ક સેટિંગમાં જઇને VoLTE એચડી કૉલ્સના મૉડને ચાલુ કરવો પડશે."</string>
+</resources>

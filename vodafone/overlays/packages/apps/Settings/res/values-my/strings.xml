@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"4G/3G/2G (အော်တို)"</string>
+<string name="network_3G_auto">"3G/2G (အော်တို)"</string>
+<string name="network_2G_only">"2G သီးသန့်"</string>
+<string name="network_3G_only">"3G သီးသန့်"</string>
+<string-array name="enabled_networks_choices">
+<item>"4G/3G/2G (အော်တို)"</item>
+<item>"3G/2G (အော်တို)"</item>
+<item>"3G သီးသန့်"</item>
+<item>"2G သီးသန့်"</item>
+</string-array>
+<string name="roaming_warning">"ရွမ်းမင်းဖွင့်ထားစဉ် ဒေတာသုံးရန် နှိပ်ပါ။ ဈေးနှုန်းကို သင်၏ကွန်ရက်ပံ့ပိုးသူနှင့် စစ်ဆေးကြည့်ပါ။"</string>
+</resources>

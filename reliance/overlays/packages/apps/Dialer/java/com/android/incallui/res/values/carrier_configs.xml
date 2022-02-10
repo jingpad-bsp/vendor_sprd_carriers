@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support Enable send sms in incallui feature. -->
+  <bool name="config_is_send_sms_enabled_feature" carrier="reliance">true</bool>
+  <bool name="config_hideConferencePreviewView" carrier="reliance">true</bool>
+</resources>
+

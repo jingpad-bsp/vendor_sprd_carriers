@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="enabled_networks_choices">
+<item>"ස්වයං 4G/3G/2G"</item>
+<item>"3G/2G ස්වයංක්‍රිය"</item>
+<item>"3G පමණයි"</item>
+<item>"2G පමණයි"</item>
+</string-array>
+<string-array name="enabled_networks_except_lte_choices">
+<item>"3G/2G ස්වයංක්‍රිය"</item>
+<item>"3G පමණයි"</item>
+<item>"2G පමණයි"</item>
+</string-array>
+<string name="network_4g_auto">ස්වයං 4G/3G/2G</string>
+<string name="network_3G_auto">3G/2G ස්වයංක්‍රිය</string>
+<string name="network_3G_only">3G පමණයි</string>
+<string name="network_2G_only">2G පමණයි</string>
+</resources>

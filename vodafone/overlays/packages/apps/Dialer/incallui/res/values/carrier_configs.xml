@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support Continue call timer when primary call on hold. -->
+  <bool name="config_is_show_calltimer_when_call_onhold" carrier="vodafone">true</bool>
+  <!-- UNISOC: feature FL1000060357 hide manage option -->
+  <bool name="config_is_show_conference_manager" carrier="vodafone">false</bool>
+  <!-- UNISOC: feature FL0108020010 ect -->
+  <bool name="config_is_support_ect_feature" carrier="vodafone">true</bool>
+  <!-- Current carrier support show call elapsed time feature. -->
+  <bool name="config_is_show_call_elapsed_time_feature" carrier="vodafone">true</bool>
+</resources>
+

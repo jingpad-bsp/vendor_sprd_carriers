@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VoLTE HD deiak"</string>
+<string name="enhanced_4g_lte_mode_summary">"Deietan kalitatearekin loturiko arazoak ekiditeko, jarri harremanetan sare mugikorraren operadorearekin eginbidea gaitu aurretik VoLTE aktibatuta dagoela egiaztatzeko"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Bideo deiak gaitzeko, VoLTE HD deiak modua aktibatu behar dituzu sare ezarpenetan."</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"Simu za HD za VOLTE"</string>
+<string name="enhanced_4g_lte_mode_summary">"Ili uepuke matatizo ya ubora wa simu, wasiliana na mtoa huduma wako wa simu ya mkononi uhakikisha kama VoLTE imeamilishwa kabla ya kuwezesha kipengele hiki"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Ili kuwasha simu ya video, utahitaji kuwezesha hali ya simu za VoLTE HD katika mipangilio ya mtandao."</string>
+</resources>

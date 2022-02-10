@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"Вызовы VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"Чтобы избежать проблем с качеством связи, перед включением этой функции узнайте у своего оператора, активирована ли технология VoLTE"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Чтобы включить видеозвонки, активируйте режим HD-вызовов VoLTE в настройках сети."</string>
+</resources>

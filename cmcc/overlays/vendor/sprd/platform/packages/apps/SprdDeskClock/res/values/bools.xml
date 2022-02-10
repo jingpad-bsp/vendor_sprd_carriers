@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <bool name="video_paused_at_fired_state">true</bool>
+    <bool name="using_sprd_cities_id">true</bool>
+    <bool name="using_sprd_cities_name">true</bool>
+    <bool name="using_sprd_cities_tz">true</bool>
+</resources>

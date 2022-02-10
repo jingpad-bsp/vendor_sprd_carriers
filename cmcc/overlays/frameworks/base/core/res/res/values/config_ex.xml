@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: Add for bug1072750, Androidq porting for USIM/SIM phonebook @{ -->
+    <bool name="config_updateadnuidCapable">true</bool>
+    <!-- UNISOC: Feature for primary sub policy -->
+    <bool name="force_auto_set_primary_sub_after_hot_swap" translatable="false">true</bool>
+    <bool name="mobile_network_capability_downgrade">true</bool>
+    <!--UNISOC: Feature porting for DM @{ -->
+    <integer name="config_prior_network_type">1</integer>
+    <!--UNISOC: @} -->
+
+    <!-- support show disconnect menu for disable network, CMCC:true -->
+    <bool name="config_wifi_disable_network_supported">true</bool>
+    <bool name="wifi_support_app_connect_policy" translatable="false">true</bool>
+    <!-- UNISOC: FEATURE_IP_DIAL for bug 1067141-->
+    <bool name="ip_dial_enabled_bool">true</bool>
+    <!-- UNISOC: support GPS automatic update time -->
+    <bool name="gps_time_enabled" translatable="false">true</bool>
+    <!-- UNISOC: support AGPS settings -->
+    <bool name="agps_setting_enabled" translatable="false">true</bool>
+</resources>

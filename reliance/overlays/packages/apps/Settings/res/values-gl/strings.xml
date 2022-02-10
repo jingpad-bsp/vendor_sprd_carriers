@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">LTE/WCDMA/GSM (automático)</string>
+<string name="network_4G_only">Só LTE</string>
+<string name="network_3G_auto">WCDMA/GSM</string>
+<string name="network_3G_only">Só WCDMA</string>
+<string name="network_2G_only">Só GSM</string>
+<string-array name="enabled_networks_choices">
+<item>LTE/WCDMA/GSM (automático)</item>
+<item>Só LTE</item>
+<item>WCDMA/GSM</item>
+<item>Só WCDMA</item>
+<item>Só GSM</item>
+</string-array>
+</resources>

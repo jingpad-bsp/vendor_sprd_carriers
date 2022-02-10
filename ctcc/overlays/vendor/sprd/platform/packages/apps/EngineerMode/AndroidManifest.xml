@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.android.engineer.overlay.ctcc">
+
+    <overlay android:targetPackage="com.sprd.engineermode"
+             android:priority="1"
+             android:isStatic="true"/>
+
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"4G/3G/2G (خودکار)"</string>
+<string name="network_3G_auto">"3G/2G (خودکار)"</string>
+<string name="network_2G_only">"فقط 2G"</string>
+<string name="network_3G_only">"فقط 3G"</string>
+<string-array name="enabled_networks_choices">
+<item>"4G/3G/2G (خودکار)"</item>
+<item>"3G/2G (خودکار)"</item>
+<item>"فقط 3G"</item>
+<item>"فقط 2G"</item>
+</string-array>
+<string name="roaming_warning">"برای استفاده از داده‌ها در هنگام رومینگ، کلیک کنید، برای آگاهی از هزینه مربوطه با ارائه‌دهنده شبکه خود تماس بگیرید."</string>
+</resources>

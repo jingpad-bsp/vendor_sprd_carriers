@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support hangup all calls for orange case -->
+  <bool name="config_is_support_hangup_all_feature" carrier="orange">true</bool>
+  <!-- UNISOC: feature FL0108020010 ect -->
+  <bool name="config_is_support_ect_feature" carrier="orange">true</bool>
+</resources>
+

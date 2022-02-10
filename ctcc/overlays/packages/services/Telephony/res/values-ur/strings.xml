@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD کالز"</string>
+<string name="enhanced_4g_lte_mode_summary">" کال کی کوالٹی کے مسائل سے بچنے کے لئے اپنے موبائل نیٹ ورک آپریٹر کو چیک کریں چاہے اس فیچر کو فعال کرنے سے قبل VoLTE فعال ہی کیوں نہ کر دیا گیا ہو"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ویڈیو کالنگ کو چالو کرنے کے لیے، آپ کو نیوٹورک سیٹنگس میں جاکر VoLTE HD کالس موڈ کو اینیبل کرنا ہوگا۔"</string>
+</resources>

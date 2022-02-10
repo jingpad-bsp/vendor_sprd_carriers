@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="third_party_persistent_service_processes" translatable="false">
+        <item>com.greenpoint.android.mc10086.activity:McPushservice</item>
+    </string-array>
+    <string-array name="third_party_persistent_service_components" translatable="false">
+        <item>com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.cservice.PushService</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support Enable send sms in incallui feature. -->
+  <bool name="config_is_send_sms_enabled_feature" carrier="telcel">true</bool>
+  <!-- Current carrier support display fdnname feature -->
+  <bool name="config_is_support_fdnname_feature" carrier="telcel">true</bool>
+  <!-- Current carrier support Voice Clear Code Feature -->
+  <bool name="config_is_support_voiceclearcode_feature" carrier="telcel">true</bool>
+  <!-- Current carrier support SIP Voice Clear Code Feature -->
+  <bool name="config_is_support_csfb_volteclearcode_feature" carrier="telcel">true</bool>
+  <!-- Current carrier support Telcel Operator requirement -->
+  <bool name="config_if_support_display_telcel_feature" carrier="telcel">true</bool>
+  <!-- Current carrier support shows HD icon during call using AMR-WB -->
+  <bool name="config_is_support_hd_audio_feature" carrier="telcel">true</bool>
+  <!-- Current carrier support InComing Third Call Feature -->
+  <bool name="config_is_support_incoming_third_call_feature" carrier="telcel">true</bool>
+</resources>
+

@@ -1,0 +1,7 @@
+
+android_app {
+    certificate: "platform",
+    srcs: ["src/com/sprd/dm/selfreg/*.java"],
+    name: "SelfRegister",
+    product_specific: true,
+}

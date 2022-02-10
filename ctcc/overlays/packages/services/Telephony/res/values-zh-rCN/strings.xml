@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enhanced_4g_lte_mode_title">VoLTE高清通话</string>
+    <string name="enhanced_4g_lte_mode_summary">启用前应先向运营商确认已开通此功能，否则可能影响正常通话</string>
+    <!-- UNISOC: add for bug1155247 -->
+    <string name="enable_video_calling_dialog_auto_msg">"要开启视频通话功能，您需要在网络设置中启用VoLTE高清通话模式。"</string>
+</resources>

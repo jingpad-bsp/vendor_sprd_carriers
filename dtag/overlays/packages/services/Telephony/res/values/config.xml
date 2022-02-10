@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UNISOC: Add for Bug 1095038 @{ -->
+    <bool name="config_ut_need_query_root_node">true</bool>
+</resources>

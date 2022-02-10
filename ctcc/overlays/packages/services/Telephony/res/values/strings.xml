@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enhanced_4g_lte_mode_title">VoLTE HD calls</string>
+    <string name="enhanced_4g_lte_mode_summary">To avoid call quality issues, check with your mobile network operator whether VoLTE is activated before enabling this feature</string>
+    <!-- UNISOC: add for bug1155247 -->
+    <string name="enable_video_calling_dialog_auto_msg">"To turn on video calling, you need to enable VoLTE HD calls mode in network settings."</string>
+</resources>

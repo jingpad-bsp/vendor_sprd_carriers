@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VoLTE HD ဖုန်းခေါ်ဆိုမှုများ"</string>
+<string name="enhanced_4g_lte_mode_summary">"ဖုန်းခေါ်ဆိုမှုအရည်အသွေး ပြဿနာများကို ရှောင်ရှားရန် ဤအင်္ဂါရပ်ကိုမဖွင့်မီ VOLTE ကို သက်ဝင်အောင် လုပ်ထား-မထား သင်၏မိုဘိုင်းကွန်ရက်အော်ပရေတာနှင့် စစ်ဆေးကြည့်ပါ။"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ဗီဒီယိုဖုန်းခေါ်ခြင်းကို ဖွင့်ရန် သင်က ကွန်ရက်ဆက်တင်များနှင့် VoLTE HD ဖုန်းခေါ်ဆိုမှုများ မုဒ်ကို ဖွင့်ရန် လိုသည်။"</string>
+</resources>

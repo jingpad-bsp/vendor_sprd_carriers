@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"ການໂທຜ່ານ VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"ເພື່ອຫຼີກລ່ຽງບັນຫາດ້ານຄຸນນະພາບໃນການໂທ, ກວດສອບກັບຜູ້ໃຫ້ບໍລິການເຄືອຂ່າຍມືຖືຂອງທ່ານ ຖ້າວ່າ VoLTE ຖືກເປີດໃຊ້ງານກ່ອນທີ່ຈະເປີດໃຊ້ຄຸນສົມບັດນີ້"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ເພື່ອເປີດການໂທຜ່ານວິດີໂອ, ທ່ານຈະຕ້ອງເປີດໃຊ້ງານໂໝດການໂທ VoLTE HD ໃນການຕັ້ງຄ່າເຄືອຂ່າຍ."</string>
+</resources>

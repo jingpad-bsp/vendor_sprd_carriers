@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <bool name="baidu_default_engine">true</bool>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">" Appels HD VoLTE "</string>
+<string name="enhanced_4g_lte_mode_summary">"Pour éviter tout problème de qualité lors des appels, vérifiez auprès de votre opérateur de téléphonie mobile si la fonction VoLTE est activée avant d’utiliser cette fonction "</string>
+<string name="enable_video_calling_dialog_auto_msg">"Pour activer la fonction d\'appel vidéo, vous devez activer le mode d\'appels HD VoLTE dans les paramètres réseau."</string>
+</resources>

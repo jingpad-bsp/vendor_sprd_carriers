@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- UNISOC:bug1072699 new feature-display FDN contact name in calllog -->
+  <bool name="is_support_fdn">true</bool>
+
+  <!-- UNISOC:bug1072698 new feature-display vowifi and volte icons in calllog with tecel -->
+  <bool name="is_support_vowifi_volte">true</bool>
+</resources>

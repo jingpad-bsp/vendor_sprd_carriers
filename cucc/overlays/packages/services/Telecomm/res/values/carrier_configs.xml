@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Unisoc FL0108020025: Show Rejected calls notifier feature. -->
+  <bool name="config_is_show_reject_call_notifier" carrier="cucc">true</bool>
+</resources>

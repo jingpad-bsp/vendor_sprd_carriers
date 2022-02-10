@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="enabled_networks_choices">
+<item>Orokorra</item>
+<item>3G/2G automatikoa</item>
+<item>3G soilik</item>
+<item>2G soilik</item>
+</string-array>
+<string-array name="enabled_networks_except_lte_choices">
+<item>3G/2G automatikoa</item>
+<item>3G soilik</item>
+<item>2G soilik</item>
+</string-array>
+<string name="network_4g_auto">Orokorra</string>
+<string name="network_3G_auto">3G/2G automatikoa</string>
+<string name="network_3G_only">3G soilik</string>
+<string name="network_2G_only">2G soilik</string>
+</resources>

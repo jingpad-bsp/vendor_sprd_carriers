@@ -1,0 +1,4 @@
+<resources>
+   <!-- SPRD: FEATURE_IP_DIAL for bug 984029-->
+    <string name="vowifi_regist_fail_content">vowifi network issue, please reuse this service five minutes later</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: disable switch default data sim function on specific version -->
+    <string-array name="operator_required_iccid_list" translatable="false">
+        <item>898600</item>
+        <item>898602</item>
+        <item>898604</item>
+        <item>898607</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Unisoc: unhold call_EE. -->
+  <bool name="config_unhold_call" carrier="ee">true</bool>
+</resources>

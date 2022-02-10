@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"LTE/WCDMA/GSM (Automático)"</string>
+<string name="network_3G_auto">"WCDMA/GSM"</string>
+<string name="network_2G_only">"Solo 2G"</string>
+<string name="network_3G_only">"Solo 3G"</string>
+<string-array name="enabled_networks_choices">
+<item>"LTE/WCDMA/GSM (Automático)"</item>
+<item>"WCDMA/GSM"</item>
+<item>"Solo 3G"</item>
+<item>"Solo 2G"</item>
+</string-array>
+<string name="roaming_warning">"Haga clic para usar datos en itinerancia, compruebe los precios de su proveedor de red."</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"Cuộc gọi qua VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"Để tránh vấn đề về chất lượng cuộc gọi, hãy kiểm tra với nhà mạng di động của bạn xem đã kích hoạt VoLTE trước khi bật tính năng này chưa"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Để bật cuộc gọi video, bạn cần bật chế độ cuộc gọi VoLTE HD trong cài đặt mạng."</string>
+</resources>

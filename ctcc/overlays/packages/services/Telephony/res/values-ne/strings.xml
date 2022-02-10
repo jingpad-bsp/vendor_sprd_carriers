@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD कलहरु"</string>
+<string name="enhanced_4g_lte_mode_summary">"कलको गुणस्तरका मुद्दाहरुबाट जोगिनको लागि, VoLTE सक्रिय भएको वा नभएको कुरा तपाईंको मोबाइल नेटवर्क परिचालकसँग जाँच्नुहोस्"</string>
+<string name="enable_video_calling_dialog_auto_msg">"भिडियो कल अन गर्नको लागि तपाईंले नेटवर्कको सेटिंगमा VoLTE HD कल मोड सक्षम गर्नुपर्छ ।"</string>
+</resources>

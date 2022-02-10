@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"Автоматичний вибір LTE/WCDMA/GSM"</string>
+<string name="network_4G_only">"Тільки LTE"</string>
+<string name="network_3G_auto">"WCDMA/GSM"</string>
+<string name="network_3G_only">"WCDMA тільки"</string>
+<string name="network_2G_only">"GSM тільки"</string>
+<string-array name="enabled_networks_choices">
+<item>"Автоматичний вибір LTE/WCDMA/GSM"</item>
+<item>"Тільки LTE"</item>
+<item>"WCDMA/GSM"</item>
+<item>"WCDMA тільки"</item>
+<item>"GSM тільки"</item>
+</string-array>
+</resources>

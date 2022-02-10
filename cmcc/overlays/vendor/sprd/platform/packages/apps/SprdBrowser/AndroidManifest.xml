@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.brower.overlay.cmcc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <overlay android:targetPackage="com.android.browser" android:priority="2" android:isStatic="true"/>
+
+</manifest>

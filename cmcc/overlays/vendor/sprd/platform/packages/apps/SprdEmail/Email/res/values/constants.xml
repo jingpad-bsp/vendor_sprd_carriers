@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="guide_139_support">true</bool>
+
+    <bool name="auto_mail_support">true</bool>
+</resources>

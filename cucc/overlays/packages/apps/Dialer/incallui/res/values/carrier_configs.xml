@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support hd audio -->
+  <bool name="config_is_support_hd_audio_feature" carrier="cucc">true</bool>
+  <!-- Current carrier support display caller address -->
+  <bool name="config_is_support_display_caller_address" carrier="cucc">true</bool>
+  
+</resources>

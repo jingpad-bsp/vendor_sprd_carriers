@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--UNISOC: Feature porting for DM @{ -->
+    <bool name="config_dmyk_enable">true</bool>
+    <!--UNISOC: @} -->
+    <!--  UNISOC: add for feature 1071416 durationforward -->
+    <bool name="config_show_durationforward">true</bool>
+    <bool name="config_video_callforward_support">false</bool>
+</resources>

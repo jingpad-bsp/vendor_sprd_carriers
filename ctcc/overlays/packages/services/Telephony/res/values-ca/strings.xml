@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"Trucades VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"Per evitar problemes de qualitat amb la trucada, comprova si el teu operador de la xarxa mòbil té VoLTE activat abans d’habilitar aquesta funció"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Per activar les videotrucades, cal activar el mode de trucades VoLTE HD a la configuració de xarxa."</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    This file is used to configure the switch of functions in Settings.
+    Including Settings internal self-developed function, currently no switch
+    control function, plugins added in Settings, etc. One function uses only
+    one switch for control.
+
+    Switch Type Example:
+    Bool:config_support_xxx
+    <bool name="config_support_networkRate" translatable="false">true</bool>
+    Plugin:config_plugin_xxx
+    <string name="config_plugin_disableDatausage" translatable="false">plugin.sprd.disabledatausage.AddonDisableDataUsage</string>
+    Value:config_xxx
+    <integer name="config_wifiSupplicantScanInterval" translatable="false">15000</integer>
+    Add for UNISOC
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: allow empty apn -->
+    <bool name="config_allow_empty_apn">true</bool>
+</resources>

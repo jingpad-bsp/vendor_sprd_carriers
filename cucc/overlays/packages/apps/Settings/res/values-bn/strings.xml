@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="network_4g_auto">"LTE/WCDMA/GSM (স্বয়ং)"</string>
+    <string name="network_3G_auto">"ডব্লিউসিডিএমএ/জিএসএম (WCDMA/GSM)"</string>
+    <string name="network_3G_only">শুধুমাত্র WCDMA</string>
+    <string name="network_2G_only">শুধুমাত্র GSM</string>
+    <string-array name="enabled_networks_choices">
+        <item>"LTE/WCDMA/GSM (স্বয়ং)"</item>
+        <item>"ডব্লিউসিডিএমএ/জিএসএম (WCDMA/GSM)"</item>
+        <item>শুধুমাত্র WCDMA</item>
+        <item>শুধুমাত্র GSM</item>
+    </string-array>
+</resources>

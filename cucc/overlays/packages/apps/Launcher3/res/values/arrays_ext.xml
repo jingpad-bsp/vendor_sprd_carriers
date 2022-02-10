@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="customize_app_position" translatable="false">
+        <!--ex: packageName/className#position -->
+        <!--ex: com.android.settings/#0 -->
+        <item>cn.com.wo/#0</item>
+        <item>com.infinit.wostore.ui/#1</item>
+        <item>com.sinovatech.unicom.ui/#2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enhanced_4g_lte_mode_title">Appels 4G</string>
+    <string name="enhanced_4g_lte_mode_summary">Utiliser la Voix 4G lorsque le service est disponible</string>
+</resources>

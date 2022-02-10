@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"LTE/WCDMA/GSM (ਆਟੋ)"</string>
+<string name="network_4G_only">"ਕੇਵਲ LTE"</string>
+<string name="network_3G_auto">"WCDMA/GSM"</string>
+<string name="network_3G_only">WCDMA ਕੇਵਲ</string>
+<string name="network_2G_only">ਕੇਵਲ GSM</string>
+<string-array name="enabled_networks_choices">
+<item>"LTE/WCDMA/GSM (ਆਟੋ)"</item>
+<item>"ਕੇਵਲ LTE"</item>
+<item>"WCDMA/GSM"</item>
+<item>WCDMA ਕੇਵਲ</item>
+<item>ਕੇਵਲ GSM</item>
+</string-array>
+</resources>

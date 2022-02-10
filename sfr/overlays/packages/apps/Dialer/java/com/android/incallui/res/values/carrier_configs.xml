@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- SFR new feature:Wifi Calling UI -->
+  <bool name="config_is_support_vowifi_icon_feature" carrier="sfr">true</bool>
+</resources>

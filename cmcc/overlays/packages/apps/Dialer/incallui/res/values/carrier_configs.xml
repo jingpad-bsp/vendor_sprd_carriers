@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support Enable send sms in incallui feature. -->
+  <bool name="config_is_send_sms_enabled_feature" carrier="cmcc">true</bool>
+  <!-- Current carrier support display state of conference member -->
+  <bool name="config_is_show_conference_state_feature" carrier="cmcc">true</bool>
+  <!-- Current carrier support display caller address -->
+  <bool name="config_is_support_display_caller_address" carrier="cmcc">true</bool>
+  <!-- Current carrier support conference number limit feature -->
+  <bool name="config_is_support_conference_number_limit_feature" carrier="cmcc">true</bool>
+  <!-- Current carrier support show emergency number feature -->
+  <bool name="config_is_show_emergency_number_feature" carrier="cmcc">true</bool>
+  <!-- Current carrier show call elapsed time feature -->
+  <bool name="config_is_show_call_elapsed_time_feature" carrier="cmcc">true</bool>
+  <!--UNISOC:modify for bug1147838-->
+  <bool name="config_is_show_main_vice_card_feature" cassier="cmcc">true</bool>
+</resources>
+

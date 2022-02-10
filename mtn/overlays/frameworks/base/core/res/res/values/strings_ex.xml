@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="simlock_dialog_btn_skip">skip</string>
+    <string name="simlock_dialog_btn_eca">emergency call</string>
+    <string name="simlock_dialog_title">Please insert MTN card in slot 1</string>
+    <string name="operator_simlock_title">SimLock</string>
+</resources>

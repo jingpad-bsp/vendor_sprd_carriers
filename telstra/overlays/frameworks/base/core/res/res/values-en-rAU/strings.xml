@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_actions_toggle_airplane_mode" msgid="5884330306926307456">"Flight mode"</string>
+    <string name="global_actions_airplane_mode_on_status" msgid="2719557982608919750">"Flight mode is ON"</string>
+    <string name="global_actions_airplane_mode_off_status" msgid="5075070442854490296">"Flight mode is OFF"</string>
+</resources>

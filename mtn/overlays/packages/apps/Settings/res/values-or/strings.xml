@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"4G/3G/2G ସ୍ୱୟଂ"</string>
+<string name="network_3G_auto">"3G/2G ସ୍ୱୟଂ"</string>
+<string name="network_2G_only">"2G କେବଳ ମୋଡ଼"</string>
+<string name="network_3G_only">"3G ସ୍ୱୟଂ"</string>
+<string-array name="enabled_networks_choices">
+<item>"4G/3G/2G ସ୍ୱୟଂ"</item>
+<item>"3G/2G ସ୍ୱୟଂ"</item>
+<item>"3G ସ୍ୱୟଂ"</item>
+<item>"2G କେବଳ ମୋଡ଼"</item>
+</string-array>
+</resources>

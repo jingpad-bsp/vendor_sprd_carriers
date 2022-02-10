@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- manufacture id -->
+    <string name="manu_id" translatable="false">HS</string>
+    <!-- register version -->
+    <string name="register_version" translatable="false">8.0</string>
+    <!-- 1:phone, 2:pad, 3:DataCard, 4:CPE, 5:5G Phone, 6:Reserve, 7:IoT CM, 8:IoT terminal -->
+    <string name="ue_type" translatable="false">5</string>
+    <!-- retry times,if failed -->
+    <string name="retry_times" translatable="false">10</string>
+    <string name="sms_retry_times" translatable="false">30</string>
+    <!-- the interval of post data,in millisecond -->
+    <string name="service_interval" translatable="false">3600000</string>
+    <string name="smsservice_interval" translatable="false">60000</string>
+    <!-- url of dm server -->
+    <string name="dm_server_url" translatable="false">http://zzhc.vnet.cn</string>
+    <!-- sms dm server number -->
+    <string name="dm_sms_server" translatable="false">10659401</string>
+    <!-- resend times(hour),if success -->
+    <string name="resend_times" translatable="false">12</string>
+    <!-- ims sms switch ,default on,if false,switch off.VALEU[true,false] -->
+    <string name="dm_ims_sms" translatable="false">true</string>
+    <!-- unisoc add for bug1499157 -->
+    <bool name="random_mac_address" translatable="false">false</bool>
+</resources>
+

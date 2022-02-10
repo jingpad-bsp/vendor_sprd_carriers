@@ -1,0 +1,5 @@
+-dontwarn org.apache.http.**
+-dontwarn com.loopj.android.http.**
+-dontwarn cn.dm.volley.**
+-dontwarn cn.richinfo.dm.**
+-dontwarn cz.msebera.android.httpclient.**

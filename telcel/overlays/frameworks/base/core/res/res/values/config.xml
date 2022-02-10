@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--add for FEATURE 1072670,Telcel Query USSD Balance-->
+    <bool name="config_ussd_balance_custom">true</bool>
+    <!-- UNISOC for telcel data clear code -->
+    <string name="config_dataconnection_data_clear_code" translatable="false">volte</string>
+    <!-- UNISOC: NCK simlock -->
+    <bool name="config_operator_nck_simlock">true</bool>
+    <bool name="simlock_hide_unlock_view">true</bool>
+</resources>

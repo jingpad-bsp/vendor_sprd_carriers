@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- UNISOC AndroidQ Feature Porting: bug1072989 show video meeting photo selected for reliance -->
+  <bool name="config_show_video_meeting_photo">true</bool>
+  <!-- UNISOC AndroidQ Feature Porting: bug1072631add for feature customized fast dial numer  -->
+  <bool name="config_fastdial_number_customized">true</bool>
+  <!-- UNISOC AndroidQ Feature Porting: bug1072697 Support For CallLog Icon Display.  -->
+  <bool name="config_show_calllog_ex_icon">true</bool>
+</resources>

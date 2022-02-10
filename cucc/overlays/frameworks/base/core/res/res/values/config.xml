@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: Add for bug693492 @{ -->
+    <string-array name="usim_notify_packages" translatable="false">
+        <item>com.neusoft.td.android.wo116114</item>
+        <item>com.infinit.wostore.ui</item>
+        <item>com.asiainfo.android</item>
+        <item>com.sinovatech.unicom.ui</item>
+        <item>cn.com.wo</item>
+    </string-array>
+    <!-- @} -->
+    <bool name="config_usim_notify_support">true</bool>
+    <!-- UNISOC: FEATURE_IP_DIAL for bug 1067141-->
+    <bool name="ip_dial_enabled_bool">true</bool>
+</resources>

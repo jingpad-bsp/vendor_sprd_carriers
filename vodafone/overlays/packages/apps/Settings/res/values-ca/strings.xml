@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_4g_auto">"4G/3G/2G (automàtic)"</string>
+<string name="network_3G_auto">"3G/2G (automàtic)"</string>
+<string name="network_2G_only">Només 2G</string>
+<string name="network_3G_only">Només 3G</string>
+<string-array name="enabled_networks_choices">
+<item>"4G/3G/2G (automàtic)"</item>
+<item>"3G/2G (automàtic)"</item>
+<item>Només 3G</item>
+<item>Només 2G</item>
+</string-array>
+<string name="roaming_warning">"Fes clic per fer servir dades en itinerància. Consulta els preus al proveïdor del servei."</string>
+</resources>

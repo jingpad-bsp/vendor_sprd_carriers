@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Determines if the current device should allow emergency numbers to be logged in the
+         call log. Some carriers require that emergency calls *not* be logged, presumably to
+         avoid the risk of accidental redialing from the call log UI.
+         The default is false. -->
+    <bool name="allow_emergency_numbers_in_call_log">true</bool>
+
+</resources>

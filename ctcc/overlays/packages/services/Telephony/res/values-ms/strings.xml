@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"Panggilan VOLTE HD"</string>
+<string name="enhanced_4g_lte_mode_summary">"Untuk mengelakkan isu kualiti panggilan, semak dengan operator rangkaian mudah alih anda sama ada VoLTE diaktifkan sebelum mendayakan ciri ini"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Untuk menghidupkan panggilan video, anda perlu mendayakan mod panggilan VoLTE HD dalam tetapan rangkaian."</string>
+</resources>

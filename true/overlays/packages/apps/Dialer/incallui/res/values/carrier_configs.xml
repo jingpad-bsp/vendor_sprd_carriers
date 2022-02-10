@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Current carrier support message reject on status bar -->
+  <bool name="incallui_notification_add_reject_message_button" carrier="true">true</bool>
+  <!-- UNISOC: feature FL1000062299 update incallui to usual call -->
+  <bool name="update_incallui_to_usual_call" carrier="true">true</bool>
+</resources>

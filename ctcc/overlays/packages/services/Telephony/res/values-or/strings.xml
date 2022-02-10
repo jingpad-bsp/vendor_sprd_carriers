@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD କଲ୍‍ଗୁଡ଼ିକ"</string>
+<string name="enhanced_4g_lte_mode_summary">"କଲ୍‍ର ଗୁଣଗତ ସମସ୍ୟାଗୁଡ଼ିକ ଏଡ଼ାଇବା ପାଇଁ, ଏହି ବୈଶିଷ୍ଟଟି ଚାଲୁ କରିବା ପୂର୍ବରୁ VOLTE ଚାଲୁ କରାଯାଇଛି କି ନାହିଁ ତାହା ଆପଣଙ୍କ ମୋବାଇଲ ନେଟୱାର୍କ ଅପରେଟର ସହିତ ଯାଞ୍ଚ କରିନିଅନ୍ତୁ."</string>
+<string name="enable_video_calling_dialog_auto_msg">"ଭିଡିଓ କଲିଂ ଚାଲୁ କରିବାକୁ, ଆପଣଙ୍କୁ ନେଟୱାର୍କ ସେଟିଂସରେ VoLTE ଏଚ୍‍ଡି କଲ୍‍ ମୋଡ୍‍ ସକ୍ରିୟ କରିବାକୁ ପଡ଼ିବ ।"</string>
+</resources>

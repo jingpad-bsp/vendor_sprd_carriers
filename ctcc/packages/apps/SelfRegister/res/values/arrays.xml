@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- String for Singlesim Self Register message. -->
+    <string-array name="singlesim_self_register_message_string" translatable="false" >
+        <item>REGVER</item>
+        <item>UETYPE</item>
+        <item>MEID</item>
+        <item>MODEL</item>
+        <item>SWVER</item>
+        <item>OSVER</item>
+        <item>MACID</item>
+        <item>IMEI1</item>
+        <item>IMEI2</item>
+        <item>DATASIM</item>
+        <item>SIM1ICCID</item>
+        <item>SIM1LTEIMSI</item>
+        <item>SIM1CDMAIMSI</item>
+        <item>SIM1CELLID</item>
+        <item>SIM2ICCID</item>
+        <item>SIM2LTEIMSI</item>
+        <item>SIM2CDMAIMSI</item>
+        <item>SIM2CELLID</item>
+        <item>NETWORKTYPE</item>
+    </string-array>
+    <!-- String for Dualsim Self Register message. -->
+    <string-array name="dualsim_self_register_message_string" translatable="false" >
+        <item>REGVER</item>
+        <item>UETYPE</item>
+        <item>MEID</item>
+        <item>MODEL</item>
+        <item>SWVER</item>
+        <item>OSVER</item>
+        <item>MACID</item>
+        <item>IMEI1</item>
+        <item>IMEI2</item>
+        <item>DATASIM</item>
+        <item>SIM1ICCID</item>
+        <item>SIM1LTEIMSI</item>
+        <item>SIM1CDMAIMSI</item>
+        <item>SIM1CELLID</item>
+        <item>SIM2CDMAIMSI</item>
+        <item>SIM2ICCID</item>
+        <item>SIM2LTEIMSI</item>
+        <item>SIM2CELLID</item>
+        <item>NETWORKTYPE</item>
+    </string-array>
+
+    <!-- String for pan smart device Self Register message. -->
+    <string-array name="pan_smart_dev_self_reg_msg_str" translatable="false" >
+        <item>REGVER</item>
+        <item>UETYPE</item>
+        <item>MODEL</item>
+        <item>SWVER</item>
+        <item>OSVER</item>
+        <item>MACID</item>
+        <item>IMEI1</item>
+        <item>SIM1ICCID</item>
+        <item>SIM1LTEIMSI</item>
+        <item>SIM1CDMAIMSI</item>
+        <item>SIM1CELLID</item>
+        <item>REGDATE</item>
+    </string-array>
+</resources>

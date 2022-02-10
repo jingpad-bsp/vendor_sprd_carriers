@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: Bug 886899 dual no sim icons feature. @{ -->
+    <bool name="config_always_show_all_sims_signalbar">true</bool>
+    <bool name="config_show_stat_sys_tower_icon_signalbar">true</bool>
+    <!-- @} -->
+    <bool name="config_show_nr_tile">false</bool>
+</resources>

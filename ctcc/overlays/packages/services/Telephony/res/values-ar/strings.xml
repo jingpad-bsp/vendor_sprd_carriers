@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"مكالمات VOLTE عالية الجودة"</string>
+<string name="enhanced_4g_lte_mode_summary">"لتجنب مشكلات جودة المكالمات، تحقق مع مشغل شبكة الجوال من أن اتصال VoLTE مفعَّل قبل تمكين هذه الميزة"</string>
+<string name="enable_video_calling_dialog_auto_msg">"لتشغيل مكالمات الفيديو، تحتاج إلى تمكين وضع مكالمات VoLTE HD في إعدادات الشبكة."</string>
+</resources>

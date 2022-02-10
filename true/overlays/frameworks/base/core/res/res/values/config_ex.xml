@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- UNISOC: Feature for primary sub policy -->
+    <integer name="restricted_network_mode_phoneid">1</integer>
+    <bool name="mobile_network_capability_downgrade">true</bool>
+</resources>

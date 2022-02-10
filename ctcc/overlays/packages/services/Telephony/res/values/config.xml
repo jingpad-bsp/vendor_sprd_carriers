@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--UNISOC: Feature porting for DM @{ -->
+    <bool name="config_dmyk_enable">true</bool>
+    <!--UNISOC: @} -->
+    <!-- UNISOC: Bug 1071722 -->
+    <bool name="config_display_ut_not_support_message_for_cdma">true</bool>
+</resources>

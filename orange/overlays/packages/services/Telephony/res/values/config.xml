@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UNISOC: add for ussd customized feature 1072636 -->
+    <bool name="config_customized_ussd_layout">true</bool>
+    <!-- UNISOC: add for 1062548 -->
+    <integer name="config_dismiss_ussd_dialog_duration">180</integer>
+    <bool name="config_support_tip_limited_number">true</bool>
+    <string-array name="config_checked_mccmnc">
+        <item>20801</item>
+    </string-array>
+    <string-array name="config_checked_spn">
+        <item>orange</item>
+    </string-array>
+    <string-array name="config_limited_number">
+        <item>15</item>
+        <item>17</item>
+        <item>18</item>
+        <item>000</item>
+        <item>110</item>
+        <item>118</item>
+        <item>119</item>
+        <item>999</item>
+        <item>08</item>
+    </string-array>
+</resources>

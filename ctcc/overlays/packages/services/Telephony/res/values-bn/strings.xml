@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"ভোল্ট এইচডি কলগুলি"</string>
+<string name="enhanced_4g_lte_mode_summary">"কলের গুণগত সমস্যাগুলি এড়ানোর জন্য, এই বৈশিষ্ট্যটি সক্ষম করার আগে VoLTE(ভোল্ট) সক্রিয় করা হয়েছে কিনা তা আপনার মোবাইল নেটওয়ার্ক অপারেটরের থেকে চেক করে নিন"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ভিডিও কলিং চালু করার জন্য, আপনার নেটওয়ার্ক সেটিংসে VoLTE HD কল মোড সক্রিয় করতে হবে |"</string>
+</resources>

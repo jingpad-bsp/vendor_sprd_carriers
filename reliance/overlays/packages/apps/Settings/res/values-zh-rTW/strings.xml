@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="network_4g_auto">LTE/WCDMA/GSM 自動</string>
+    <string name="network_4G_only">僅LTE</string>
+    <string name="network_3G_auto">WCDMA/GSM 自動</string>
+    <string name="network_3G_only">僅WCDMA</string>
+    <string name="network_2G_only">僅GSM</string>
+    <string-array name="enabled_networks_choices">
+        <item>"LTE/WCDMA/GSM 自動"</item>
+        <item>"僅LTE"</item>
+        <item>"WCDMA/GSM 自動"</item>
+        <item>"僅WCDMA"</item>
+        <item>"僅GSM"</item>
+    </string-array>
+</resources>

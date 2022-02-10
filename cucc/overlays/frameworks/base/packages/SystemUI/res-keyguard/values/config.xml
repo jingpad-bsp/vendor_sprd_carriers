@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- To config the emergency button in the keyguard. These are 4 kinds of emergency button style or behavior to show:
+      -1. no emergency button and keep the AOSP default UI layout and behavior.
+      0.  always show the normal UI layout emergency button.
+      1.  only show the normal UI layout emergency button when the SIM inserted.
+    -->
+    <integer name="config_show_emergency_button_on_lockscreen">1</integer>
+    <bool name="config_show_rat_append_operator">true</bool>
+    <bool name="config_show_2g">true</bool>
+</resources>

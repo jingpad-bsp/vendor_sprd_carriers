@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="enhanced_4g_lte_mode_title">"VOLTE HD hívások"</string>
+<string name="enhanced_4g_lte_mode_summary">"A hívásminőségben tapasztalható problémák elkerülése érdekében a funkció bekapcsolása előtt ellenőrizze mobilszolgáltatójánál, hogy a VoLTE aktív-e"</string>
+<string name="enable_video_calling_dialog_auto_msg">"A videohívás bekapcsolásához engedélyeznie kell a VoLTE HD hívásokat a hálózati beállításokban."</string>
+</resources>
